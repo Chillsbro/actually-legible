@@ -1,0 +1,4 @@
+interface:
+  display_name: "Actually Legible"
+  short_description: "Architectural taste for TypeScript coding agents"
+  default_prompt: "Use $actually-legible to make this TypeScript change easy to navigate, review, and evolve."
